@@ -46,7 +46,7 @@
       <DialogOptionsGap>0</DialogOptionsGap>
       <DialogOptionsBullet>0</DialogOptionsBullet>
       <SkipSpeech>MouseOrKeyboardOrTimer</SkipSpeech>
-      <SpeechStyle>SierraWithBackground</SpeechStyle>
+      <SpeechStyle>Lucasarts</SpeechStyle>
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
       <LegacySpeechAnimationSpeed>False</LegacySpeechAnimationSpeed>
@@ -635,7 +635,7 @@
         <UnloadedRooms>
           <UnloadedRoom>
             <Number>1</Number>
-            <Description xml:space="preserve">Test Castle Room</Description>
+            <Description xml:space="preserve">Test Central Hub</Description>
           </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
@@ -2096,15 +2096,15 @@
             <ThinkingView>1</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>1</StartingRoom>
-            <StartX>200</StartX>
-            <StartY>200</StartY>
+            <StartX>640</StartX>
+            <StartY>687</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>7</MovementSpeed>
             <MovementSpeedX>3</MovementSpeedX>
             <MovementSpeedY>0</MovementSpeedY>
             <AnimationDelay>4</AnimationDelay>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
-            <SpeechColor>2047</SpeechColor>
+            <SpeechColor>65504</SpeechColor>
             <Solid>True</Solid>
             <Clickable>True</Clickable>
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
