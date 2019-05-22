@@ -637,6 +637,10 @@
             <Number>1</Number>
             <Description xml:space="preserve">Test Central Hub</Description>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>2</Number>
+            <Description xml:space="preserve">Recycle Bin</Description>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
